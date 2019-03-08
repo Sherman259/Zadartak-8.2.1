@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak 8.2.2", "Zadartak 8.2.1\Zadatak 8.2.2.csproj", "{016B4973-43A6-4F24-BA15-B07981777738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak 8.2.1", "Zadatak 8.2.1\Zadatak 8.2.1.csproj", "{BAA148BC-1E3F-4B94-BB92-18266CF678F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016B4973-43A6-4F24-BA15-B07981777738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016B4973-43A6-4F24-BA15-B07981777738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016B4973-43A6-4F24-BA15-B07981777738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016B4973-43A6-4F24-BA15-B07981777738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA148BC-1E3F-4B94-BB92-18266CF678F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA148BC-1E3F-4B94-BB92-18266CF678F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA148BC-1E3F-4B94-BB92-18266CF678F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA148BC-1E3F-4B94-BB92-18266CF678F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA360D7E-DCA8-444C-A888-1FA372245C29}
+	EndGlobalSection
+EndGlobal
